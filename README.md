@@ -1,3 +1,10 @@
+Schema screen shot
+https://drive.google.com/file/d/1V4F8aKShZy7DLjSR3Fyden8aPbP7-0At/view?usp=drive_link
+
+Project screenshot
+https://drive.google.com/file/d/1xCGpdk2NZgo1NbumjgFnSnhnXpwyXYKc/view?usp=drive_link
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
